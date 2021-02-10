@@ -3,10 +3,10 @@
 * Uso del operador **GROUP()**, **PROJECT()**, **SORT()**, **EXPR()** para realizar el análisis de la coleccion.
 * Src contiene:
 ```
- El archivo **Insert_Ventas** que contiene los documentos que voy a usar en el aggregate.
+ El archivo Insert_Ventas.js que contiene los documentos que voy a usar en el aggregate.
 ```
 ```
-El archivo **Aggregate** que contiene los aggregates que voy a usar para procesar la información.
+El archivo Aggregate.js que contiene los aggregates que voy a usar para procesar la información.
 ````
 * Doc  contiene:
 ```
